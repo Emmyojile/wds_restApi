@@ -1,0 +1,30 @@
+[
+    {
+        "product_name" : "shoe",
+        "price" : "$1000"
+    },
+    {
+        "product_name" : "shirt",
+        "price" : "$1500"
+    },
+    {
+        "product_name" : "skirt",
+        "price" : "$1600"
+    },
+    {
+        "product_name" : "wrist watch",
+        "price" : "$1200"
+    },
+    {
+        "product_name" : "Gold chain",
+        "price" : "$2500"
+    },
+    {
+        "product_name" : "Gucci Bag",
+        "price" : "$2700"
+    },
+    {
+        "product_name" : "Versace cap",
+        "price" : "$1900"
+    }
+]
